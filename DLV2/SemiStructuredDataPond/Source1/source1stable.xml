@@ -1,0 +1,16 @@
+<?xml version="1.0">
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:si="blueprints.com/">
+<rdf:Description rdf:about="blueprints.com/stable1">
+
+ <cd:name>Activity phone sensor</cd:name>
+ <cd:varytype>Sensor</cd:varietytype>         
+ <cd:varytypf> semi-structured</cd:varytpf>
+ <cd:value>High</cd:value>
+ <cd:velocity>50ms</cd:velocity>
+ <cd:veracity>High</cd:veracity>
+
+</rdf:Description>
+
+</rdf:RDF>
