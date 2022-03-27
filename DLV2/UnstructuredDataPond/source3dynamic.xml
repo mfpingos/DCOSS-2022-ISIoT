@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:si="www.blueprints.com">
+
+<rdf:Description
+rdf:about="blueprints.com/dynamic3">
+
+	<cd:volume>MB</cd:volume>
+	<cd:lastupdt>24/02/2022;06:50</cd:lastupdt>
+	 <cd:keywords> 
+		<li>Heart Health</li>
+		<li>Blood Cells</li>
+	 </cd:keywords>
+
+</rdf:Description>
+
+</rdf:RDF>
