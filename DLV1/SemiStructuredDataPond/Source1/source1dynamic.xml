@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:si="www.blueprints.com">
+
+<rdf:Description
+rdf:about="blueprints.com/dynamic1">
+
+	<cd:volume>KB</cd:volume>
+	<cd:lastupdt>01/01/2022;10:35</cd:lastupdt>
+	 <cd:keywords> 
+		<li>Activity</li>
+		<li>Acceleration</li>
+		<li>Heart Health</li>
+	 </cd:keywords>
+
+</rdf:Description>
+
+</rdf:RDF>
